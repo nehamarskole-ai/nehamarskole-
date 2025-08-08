@@ -1,4 +1,4 @@
-# nehamarskole-
+# nehamarskole-ai
 My portfolio 
 ### Hi there 👋 I'm Neha Marskole
 
